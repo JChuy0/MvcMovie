@@ -1,0 +1,5 @@
+	Following a tutorial from Microsoft (<a class="hover:bg-yellow-300 hover:text-slate-900 rounded" href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app"><u>link</u></a>), I developed an online movie database web app using the MVC framework. The app displays key details for each movie, including the title, release date, genre, price, and rating.
+
+	Users can filter movies by genre using a dropdown menu or by title using the search bar. For instance, entering "ghost" in the search bar will display all movies with "ghost" in the title.
+
+	The app also supports full CRUD functionality, allowing users to create, view, edit, and delete movies in the database.
